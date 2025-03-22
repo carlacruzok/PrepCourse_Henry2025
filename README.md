@@ -1,2 +1,2 @@
-# PrepCourse_Henry2025
-Este es un repositorio del modulo2 del prepCourse de Henry
+prueba de como crear un repositorio y clonarlo desde GITHUB a la note
+ 
